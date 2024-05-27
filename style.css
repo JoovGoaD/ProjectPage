@@ -1,0 +1,63 @@
+header{
+  background: linear-gradient(90deg, rgba(255,136,0,1) 24%, rgba(255,79,0) 45%);
+  padding: 30px;
+  justify-content: space-between; 
+}
+
+body{
+  background: linear-gradient(90deg, rgba(0,235,255,1) 44%, rgba(0,191,255) 55%);
+}
+
+header h1{
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 37px;
+}
+
+.containerhead{
+  display: flex;
+  justify-content:space-between;
+  color: #808080;
+}
+
+.containerbody{
+  display: flex;
+  justify-content:space-between;
+}
+
+.containerfooter{
+  display: flex;
+  justify-content:space-between;
+  color: #808080;
+  font-size: 23px;
+}
+
+.firstproject{
+  margin-left: 120px;
+}
+
+p {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.secondproject{
+  margin-left: 55px;
+}
+
+.thirdproject{
+  margin-right: 10px;
+}
+
+.firsttext{
+  margin-left: 120px;
+}
+
+.secondtext{
+ margin-right: 5px; 
+}
+
+.thirdtext{
+  margin-right: 160px; 
+}
+
